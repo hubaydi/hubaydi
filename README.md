@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hubaydi.hubaydi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1998&pause=1000&color=DC9F66&center=true&multiline=true&width=435&separator=%3C&lines=Hi+There!%F0%9F%91%8B;+I'm+Hubaydi.+%3CKusoo+dhowow+Profile-keyga+Github)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1998&pause=1000&color=DC9F66&center=true&multiline=true&width=435&separator=%3C&lines=Hi+There!%F0%9F%91%8B;+I'm+Hubaydi.+%3CKusoo+dhowow+Profile-keyga+Github" />
 </h1>
 
 <h3 align="center">A passionate software developer and UI/UX designer from Somalia</h3>
